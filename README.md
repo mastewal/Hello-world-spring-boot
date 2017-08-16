@@ -1,4 +1,4 @@
-# HelloSpring
+# Hello-world-spring-boot
 - This program creates a simple RESTFUL API using Spring Boot framework. 
 The app responds with a JSON text "Hello, World" and a greeting id. 
 The id increments every time a request is sent and received.
